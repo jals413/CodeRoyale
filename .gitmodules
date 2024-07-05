@@ -1,0 +1,9 @@
+[submodule "oj_server"]
+	path = oj_server
+	url = https://github.com/jals413/oj_server
+[submodule "oj_Golang"]
+	path = oj_Golang
+	url = https://github.com/Low4ey/oj_Golang
+[submodule "CodeRoyale"]
+	path = CodeRoyale
+	url = https://github.com/Low4ey/CodeRoyale
