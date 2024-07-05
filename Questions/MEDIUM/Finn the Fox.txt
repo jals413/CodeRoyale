@@ -1,0 +1,40 @@
+
+Problem Statement:
+
+Finn the fox has an n × m matrix, consisting of integers. The matrix is indexed from 1 to n for rows (from top to bottom) and from 1 to m for columns (from left to right). Each element in the matrix is represented by aij, denoting the value at the intersection of row i and column j.
+
+In one move, Finn can add or subtract the number d from any matrix element. The goal is to make all matrix elements equal by performing the minimum number of moves. If it is impossible to make all elements equal, determine and output -1.
+
+Input:
+
+The input consists of three integers: n, m, and d (1 ≤ n, m ≤ 100, 1 ≤ d ≤ 104), representing the matrix dimensions and the parameter d.
+
+The next n lines contain the matrix elements: the j-th integer in the i-th row is the matrix element aij (1 ≤ aij ≤ 104).
+
+Output:
+
+Print a single integer, representing the minimum number of moves needed for Finn to make all matrix elements equal. If it is impossible, print -1.
+
+Examples:
+
+Input:
+2 2 2
+2 4
+6 8
+
+Output:
+4
+
+Input:
+1 2 7
+6 7
+
+Output:
+-1
+
+time limit per test: 2 seconds
+memory limit per test: 256 megabytes
+input: standard input
+output: standard output
+tags: brute force, dp, implementation, sorting, ternary search
+rating: 1400
