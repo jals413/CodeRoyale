@@ -76,7 +76,7 @@ To set up the project locally, follow these steps:
 ## Architecture Overview
 
 ### Architecture Diagram
-![Architecture Diagram](path/to/your/architecture-diagram.png)
+![Architecture Diagram](https://github.com/jals413/CodeRoyale/assets/63969102/0562329d-7985-44c0-9fc0-fbec96ad73fb)
 
 ### Components
 
